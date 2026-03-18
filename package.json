@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a backend at pallav practies ",
   "main": "index.js",
+  "type": "modual",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +13,8 @@
     "pallav"
   ],
   "author": "Pallav Hirpara",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
